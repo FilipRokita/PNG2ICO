@@ -1,4 +1,4 @@
-#PNG2ICO
+#PNGTOICO
 #Filip Rokita
 #www.filiprokita.com
 
