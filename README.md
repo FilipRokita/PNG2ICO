@@ -1,5 +1,5 @@
 # PNG2ICO
-Simple script that changes ".png" to ".ico", it is really helpful because most graphic design programms can't do it easily.
+Simple script that changes ".png" to ".ico". It is really helpful, because most graphic design programms can't do it easily for some reason.
 
 # Usage
 1. Run PNG2ICO
