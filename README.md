@@ -10,9 +10,6 @@ Simple script that changes ".png" to ".ico". It is really helpful, because most 
 Results will be in the same folder as the ".png" file.
 
 # Requirements
-Windows 10 64-bit with Python 3 installed.
-
-## Python Packages
 * Pillow==8.4.0
 ```
 pip install -r requirements.txt
