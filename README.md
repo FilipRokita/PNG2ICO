@@ -1,9 +1,11 @@
 # PNGTOICO
 Simple program that changes ".png" to ".ico". It is really helpful, because most graphic design programms can't do it easily for some reason.<br/>
 <br/>
-<img src="assets/gui.png" width=300><br/>
+<p align="center">
+<img src="assets/gui.png" width=25% /><br/>
 <br/>
-<img src="assets/result.png" width=50%>
+<img src="assets/result.png" width=50% />
+</p>
 
 # Usage
 1. Run PNGTOICO
