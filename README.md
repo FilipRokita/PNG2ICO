@@ -12,5 +12,5 @@ Results will be in the same folder as the ".png" file.
 # Requirements
 * Pillow==8.4.0
 ```
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
