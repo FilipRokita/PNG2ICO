@@ -15,10 +15,8 @@ def getFile():
         ("png", "*.png"),
         ("All files", "*.*")
     )
-    global pngImgPath
-    global icoImgPath
-    pngImgPath = fd.askopenfilename(title="Open File", initialdir="./", filetypes=filetypes)
-    icoImgPath = pngImgPath+".ico"
+    global pngImgPath; pngImgPath = fd.askopenfilename(title="Open File", initialdir="./", filetypes=filetypes)
+    global icoImgPath; icoImgPath = pngImgPath+".ico"
     convertB["state"] = tk.NORMAL
 
 def convert():
