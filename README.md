@@ -2,7 +2,7 @@
 Simple program that changes ".png" to ".ico". It is really helpful, because most graphic design programms can't do it easily for some reason.<br/>
 <br/>
 <p align="center">
-<img src="assets/gui.png" width=25% /><br/>
+<img src="assets/gui.png" width=30% /><br/>
 <br/>
 <img src="assets/result.png" width=50% />
 </p>
